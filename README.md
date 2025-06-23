@@ -1,16 +1,33 @@
-# Hi, I'm Akash Sapkal! 👋
+# Hi, I'm Akash Sapkal! 
 
-## 🔹 About Me
+## 🔎 About Me
 
-I'm a **results-driven Data Analyst** with 4.5+ years of experience across finance, healthcare, and media domains.  
-I specialize in **data engineering**, **machine learning**, and **ETL pipeline automation** using Python, SQL, and cloud platforms like AWS and Snowflake.
+I'm a **results-driven Data Professional** with over **5 years of experience** in data science, financial analytics, and reporting.  
+I specialize in building **automated reporting pipelines**, **predictive models**, and **data warehouses** using Python, SQL, and cloud platforms.  
+My work enables strategic decision-making across finance, media, and compliance domains.
 
-## 🛠️ Skills
-- Languages: Python, SQL, R
-- Tools: Snowflake, Tableau, Power BI, Git, Alteryx
-- Cloud: AWS, Azure, GCP
-- Data Science: Scikit-learn, TensorFlow, Keras
-- Workflow Automation: PySpark, Airflow
+---
+
+## 🔧 Technical Skills
+
+### 💻 Programming Languages  
+Python, SQL, R
+
+### 📊 Data Tools  
+Alteryx, Tableau, Power BI, Microsoft Excel, Adobe Analytics
+
+### 📈 Data Science & ML  
+Time-series Forecasting (ARIMA, Prophet), Predictive Modeling, Regression Analysis, Natural Language Processing (NLP)
+
+### ☁️ Cloud & Big Data  
+AWS, Google Cloud Platform (GCP), Snowflake, PySpark, Apache Airflow, Hadoop
+
+### 🗄️ Databases  
+MS SQL Server, Oracle, PostgreSQL
+
+### 🧰 Other Tools  
+Git, Jupyter Notebook, SAP MM, CI/CD Pipelines
+
 
 ## 📂 Featured Projects
 
