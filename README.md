@@ -10,23 +10,12 @@ My work enables strategic decision-making across finance, media, and compliance 
 
 ## 🔧 Technical Skills
 
-### 💻 Programming Languages  
-Python, SQL, R
-
-### 📊 Data Tools  
-Alteryx, Tableau, Power BI, Microsoft Excel, Adobe Analytics
-
-### 📈 Data Science & ML  
-Time-series Forecasting (ARIMA, Prophet), Predictive Modeling, Regression Analysis, Natural Language Processing (NLP)
-
-### ☁️ Cloud & Big Data  
-AWS, Google Cloud Platform (GCP), Snowflake, PySpark, Apache Airflow, Hadoop
-
-### 🗄️ Databases  
-MS SQL Server, Oracle, PostgreSQL
-
-### 🧰 Other Tools  
-Git, Jupyter Notebook, SAP MM, CI/CD Pipelines
+**Languages:** Python, SQL, R  
+**Data Tools:** Alteryx, Tableau, Power BI, Microsoft Excel, Adobe Analytics  
+**Data Science:** Time-series Forecasting (ARIMA, Prophet), Predictive Modeling, Regression, NLP  
+**Cloud & Big Data:** AWS, GCP, Snowflake, PySpark, Airflow, Hadoop  
+**Databases:** MS SQL Server, Oracle, PostgreSQL  
+**Other Tools:** Git, Jupyter Notebook, SAP MM, CI/CD Pipelines  
 
 
 ## 📂 Featured Projects
