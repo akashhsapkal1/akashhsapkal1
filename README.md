@@ -26,6 +26,11 @@ I'm a **results-driven Data Professional** with over **5 years of experience** i
 - Built a machine learning model to classify loan defaulters.
 - Improved model accuracy through feature engineering and hyperparameter tuning.
 
+### [COVID-19 Time Series Forecasting](https://github.com/akashhsapkal1/ARIMA-COVID19-CasePrediction)
+- Built and compared SARIMAX, Prophet, XGBoost, and Neural Network models to forecast COVID-19 deaths.
+- Cleaned, transformed, and visualized global time series data using Python and pandas.
+- Evaluated forecasting performance and model reliability with statistical metrics and visual insights.
+
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/akash-h-sapkal/)
