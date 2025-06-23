@@ -26,9 +26,6 @@ I'm a **results-driven Data Professional** with over **5 years of experience** i
 - Built a machine learning model to classify loan defaulters.
 - Improved model accuracy through feature engineering and hyperparameter tuning.
 
-## 📈 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashhsapkal1&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/akash-h-sapkal/)
