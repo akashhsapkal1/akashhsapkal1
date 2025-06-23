@@ -32,5 +32,5 @@ I specialize in building **automated reporting pipelines**, **predictive models*
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashhsapkal1&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/akashhsapkal)
+- [LinkedIn](https://www.linkedin.com/in/akash-h-sapkal/)
 - 📧 akashhsapkal2@gmail.com
