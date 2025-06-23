@@ -3,8 +3,7 @@
 ## 🔎 About Me
 
 I'm a **results-driven Data Professional** with over **5 years of experience** in data science, financial analytics, and reporting.  
-I specialize in building **automated reporting pipelines**, **predictive models**, and **data warehouses** using Python, SQL, and cloud platforms.  
-My work enables strategic decision-making across finance, media, and compliance domains.
+I specialize in building **automated reporting pipelines**, **predictive models**, and **data warehouses** using Python, SQL, and cloud platforms. My work enables strategic decision-making across finance, media, and compliance domains.
 
 ---
 
