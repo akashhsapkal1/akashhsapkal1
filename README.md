@@ -1,12 +1,12 @@
 # Hi, I'm Akash Sapkal! 
 
-## 🔎 About Me
+## About Me
 
 I'm a **Data Professional** with over **5 years of experience** in **data science**, **financial analytics**, and **reporting**. Skilled in analyzing data to uncover **actionable insights**, I build **automated reporting pipelines**, **predictive models**, and **data warehouses** using **Python**, **SQL**, and cloud platforms like **AWS** and **Snowflake**. I have experience managing **end-to-end ETL processes**, designing **interactive dashboards**, forecasting business outcomes, and leading **cross-functional teams** to streamline workflows and drive strategic decisions. I also deliver **training**, manage **project documentation**, and communicate effectively with both technical and business stakeholders. Adept at performing under pressure, I excel in **fast-paced, data-driven environments** where success depends on timely and accurate insights.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 **Languages:** Python, SQL, R  
 **Data Tools:** Alteryx, Tableau, Power BI, Microsoft Excel, Adobe Analytics  
@@ -16,7 +16,7 @@ I'm a **Data Professional** with over **5 years of experience** in **data scienc
 **Other Tools:** Git, Jupyter Notebook, SAP MM, CI/CD Pipelines  
 
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### [SQL Data Warehouse Project](https://github.com/akashhsapkal1/SQL-Data-Warehouse-Project)
 - Designed ETL pipelines and built a SQL-based data warehouse for large-scale reporting.
@@ -32,6 +32,6 @@ I'm a **Data Professional** with over **5 years of experience** in **data scienc
 - Evaluated forecasting performance and model reliability with statistical metrics and visual insights.
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/akash-h-sapkal/)
 - 📧 akashhsapkal2@gmail.com
