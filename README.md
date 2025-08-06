@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Data Professional** with over **5 years of experience** in **data science**, **financial analytics**, and **reporting**. Skilled in analyzing data to uncover **actionable insights**, Skilled in analyzing data to uncover actionable insights, I automate reporting pipelines, build predictive models, and develop data warehouses using Python, SQL, and cloud platforms like AWS and Snowflake. I have experience managing **end-to-end ETL processes**, designing **interactive dashboards**, forecasting business outcomes, and leading **cross-functional teams** to streamline workflows, drive strategic decisions and act as a liaison between customers and industries. I deliver **training**, manage **project documentation**, and communicate effectively with both technical and business stakeholders.
+I'm a **Data Professional** with over **5 years of experience** in **data science**, **financial analytics**, and **reporting**. Skilled in analyzing data to uncover **actionable insights**. I automate reporting pipelines, build predictive models, and develop data warehouses using Python, SQL, and cloud platforms like AWS and Snowflake. I have experience managing **end-to-end ETL processes**, designing **interactive dashboards**, forecasting business outcomes, and leading **cross-functional teams** to streamline workflows, drive strategic decisions and act as a liaison between customers and industries. I deliver **training**, manage **project documentation**, and communicate effectively with both technical and business stakeholders.
 
 ---
 
