@@ -10,7 +10,6 @@ I'm a **Data Professional** with over **5 years of experience** in **data scienc
 
 **Languages:** Python, SQL, R  
 **Data Tools:** Alteryx, Tableau, Power BI, Microsoft Excel, Adobe Analytics  
-**Data Science:** Time-series Forecasting (ARIMA, Prophet), Predictive Modeling, Regression, NLP  
 **Cloud & Big Data:** AWS, GCP, Snowflake, PySpark, Airflow, Hadoop  
 **Databases:** MS SQL Server, Oracle, PostgreSQL  
 **Other Tools:** Git, Jupyter Notebook, SAP MM, CI/CD Pipelines  
